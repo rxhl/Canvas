@@ -1,3 +1,3 @@
 # Canvas
-HTML5 Canvas + JS.
+HTML5 Canvas
 http://www.rahulxsharma.com/Canvas/
